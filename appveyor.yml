@@ -1,3 +1,6 @@
+configuration: Release32
+platform: x86
+
 version: ci.{build}
 image: Visual Studio 2019
 clone_depth: 1
